@@ -1,0 +1,11 @@
+## These commmands includes the GSM07.05, GSM07.07, ITU-TRecommendationV.25ter and other command we define.
+SIM:
+  pin:CPIN?
+  signal-level:CSQ
+  operator:COPS?
+  manufacturer:CGMI
+  model:CGMM
+  imei:CGSN
+  self-number:CNUM
+control:
+  echo:ATE1
